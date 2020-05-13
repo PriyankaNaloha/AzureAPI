@@ -32,7 +32,7 @@ namespace ContentModeatorQuickStart
         // TEXT MODERATION
         // Name of the file that contains text
         private static readonly string TextFile = "TextFile.txt";
-        private static readonly string TextFile1 = "TextFile1.txt";
+        private static readonly string TextFile2 = "TextFile2.txt";
         // The name of the file to contain the output from the evaluation.
         private static string TextOutputFile = "TextModerationOutput.txt";
         // </snippet_text_vars>
