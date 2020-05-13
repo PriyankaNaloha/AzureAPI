@@ -11,6 +11,7 @@ namespace ContentModeatorQuickStart
 {
     class Program
     {
+       
         // AUTHENTICATION - ALL EXAMPLES
         // <snippet_creds>
         // Your Content Moderator subscription key is found in your Azure portal resource on the 'Keys' page. Add to your environment variables.
@@ -31,6 +32,7 @@ namespace ContentModeatorQuickStart
         // TEXT MODERATION
         // Name of the file that contains text
         private static readonly string TextFile = "TextFile.txt";
+        private static readonly string TextFile1 = "TextFile1.txt";
         // The name of the file to contain the output from the evaluation.
         private static string TextOutputFile = "TextModerationOutput.txt";
         // </snippet_text_vars>
